@@ -1,3 +1,6 @@
+![Screenshot 2023-10-07 161343](https://github.com/tejayy/EmojiPedia/assets/117623822/b8a60022-59a4-49b9-aab4-ac8d3ec8a667)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
